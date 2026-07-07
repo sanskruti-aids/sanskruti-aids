@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🌸 BANNER — change text, colors, or theme at https://capsule-render.vercel.app -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20👋,%20I'm%20Sanskruti%20Mete&fontSize=36&fontColor=ffffff&animation=fadeIn&v=2&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Business%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20👋,%20I'm%20Sanskruti%20Mete&fontSize=36&fontColor=ffffff&animation=fadeIn&v=2&fontAlignY=38&desc=AI%20and%20Data%20Science%20Engineer%20%7C%20Business%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-portfolio-eight-smoky.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskruti-mete-b3058034b/)
