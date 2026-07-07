@@ -19,8 +19,6 @@
 ### 👩‍💻 About Me
 
 - 🎓 Final Year, **BE Artificial Intelligence & Data Science**, Shree Ramchandra College of Engineering (SPPU) — CGPA **9.26/10**
-- 💼 Currently a **Data Science Intern** @ Codveda Technologies — EDA, ML classification models & NLP sentiment analysis
-- 🧪 Past intern experience at **Coding Samurai** and **Cognifyz Technologies**
 - 📊 Aspiring **Business Analyst** with a strong interest in data-driven decision making
 - 🤖 Building end-to-end ML systems — from multi-agent AI platforms to customer segmentation engines
 - 🏅 Smart India Hackathon participant & Odoo Hackathon builder
