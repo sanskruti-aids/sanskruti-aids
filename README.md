@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🌸 BANNER — change text, colors, or theme at https://capsule-render.vercel.app -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20👋,%20I'm%20Sanskruti%20Mete&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Business%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20👋,%20I'm%20Sanskruti%20Mete&fontSize=36&fontColor=ffffff&animation=fadeIn&v=2&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Business%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-portfolio-eight-smoky.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskruti-mete-b3058034b/)
@@ -56,8 +56,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanskruti-aids&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskruti-aids&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanskruti-aids&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanskruti-aids&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -107,28 +107,28 @@
 <div align="center">
 
 <a href="https://github.com/sanskruti-aids/shopper-spectrum">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskruti-aids&repo=shopper-spectrum&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanskruti-aids&repo=shopper-spectrum&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/sanskruti-aids/Student-Performance-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskruti-aids&repo=Student-Performance-Prediction&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanskruti-aids&repo=Student-Performance-Prediction&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/sanskruti-aids/bird-species-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskruti-aids&repo=bird-species-analysis&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanskruti-aids&repo=bird-species-analysis&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/sanskruti-aids/Tourism-Experience-Analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskruti-aids&repo=Tourism-Experience-Analytics&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanskruti-aids&repo=Tourism-Experience-Analytics&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/sanskruti-aids/Sentiment-Analysis-Level3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskruti-aids&repo=Sentiment-Analysis-Level3&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanskruti-aids&repo=Sentiment-Analysis-Level3&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/sanskruti-aids/Iris-Classification-Level2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskruti-aids&repo=Iris-Classification-Level2&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanskruti-aids&repo=Iris-Classification-Level2&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/sanskruti-aids/Iris-Data-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskruti-aids&repo=Iris-Data-Analysis&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanskruti-aids&repo=Iris-Data-Analysis&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/sanskruti-aids/CODING-SAMURAI-INTERNSHIP-TASK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskruti-aids&repo=CODING-SAMURAI-INTERNSHIP-TASK&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanskruti-aids&repo=CODING-SAMURAI-INTERNSHIP-TASK&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -149,7 +149,7 @@
 <div align="center">
 
 <a href="https://github.com/sanskruti-aids/leetcode-solutions">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskruti-aids&repo=leetcode-solutions&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanskruti-aids&repo=leetcode-solutions&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
