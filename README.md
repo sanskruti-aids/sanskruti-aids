@@ -67,17 +67,7 @@
 
 </div>
 
----
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanskruti-aids&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-
-</div>
-
----
 
 ### 📈 Contribution Activity Graph
 
@@ -179,9 +169,7 @@
 <a href="https://ai-portfolio-eight-smoky.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://github.com/sanskruti-aids/sanskruti-aids/raw/main/Sanskruti_Mete_Resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
-</a>
+
 
 </div>
 
