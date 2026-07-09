@@ -43,6 +43,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
@@ -96,6 +97,9 @@
 
 <div align="center">
 
+<a href="https://github.com/sanskruti-aids/vaccination-data-analysis">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanskruti-aids&repo=vaccination-data-analysis&theme=tokyonight&hide_border=true" />
+</a>
 <a href="https://github.com/sanskruti-aids/shopper-spectrum">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanskruti-aids&repo=shopper-spectrum&theme=tokyonight&hide_border=true" />
 </a>
@@ -125,6 +129,7 @@
 
 | Project | Tech | Description |
 |---|---|---|
+| 💉 **Vaccination Data Analytics** | Power BI, SQL, Python | End-to-end vaccination data analysis system with Python data cleaning, MySQL database, and an interactive Power BI dashboard. |
 | 🛍️ **Shopper Spectrum** | Python, Streamlit, KMeans | RFM + KMeans customer segmentation with a cosine-similarity recommendation engine, deployed via Streamlit. |
 | 🎓 **Student Performance Prediction** | Python, Scikit-learn | ML model comparing Logistic Regression vs Decision Tree to predict academic performance, with full preprocessing and evaluation pipeline. |
 | 🐦 **Bird Species Analysis** | Python, Pandas | Bird Species Observation Analysis across Forest & Grassland habitats with EDA and visualizations. |
