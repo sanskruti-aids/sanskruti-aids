@@ -93,6 +93,9 @@
 
 <div align="center">
 
+<a href="https://github.com/sanskruti-aids/-Cricbuzz-LiveStats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanskruti-aids&repo=-Cricbuzz-LiveStats&theme=tokyonight&hide_border=true" />
+</a>
 <a href="https://github.com/sanskruti-aids/vaccination-data-analysis">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanskruti-aids&repo=vaccination-data-analysis&theme=tokyonight&hide_border=true" />
 </a>
@@ -125,11 +128,12 @@
 
 | Project | Tech | Description |
 |---|---|---|
+| 🏏 **Cricbuzz LiveStats** | React, Tailwind CSS | Sleek, dark glassmorphism dashboard UI for real-time cricket statistics. |
 | 💉 **Vaccination Data Analytics** | Power BI, SQL, Python | End-to-end vaccination data analysis system with Python data cleaning, MySQL database, and an interactive Power BI dashboard. |
 | 🛍️ **Shopper Spectrum** | Python, Streamlit, KMeans | RFM + KMeans customer segmentation with a cosine-similarity recommendation engine, deployed via Streamlit. |
 | 🎓 **Student Performance Prediction** | Python, Scikit-learn | ML model comparing Logistic Regression vs Decision Tree to predict academic performance, with full preprocessing and evaluation pipeline. |
 | 🐦 **Bird Species Analysis** | Python, Pandas | Bird Species Observation Analysis across Forest & Grassland habitats with EDA and visualizations. |
-| ✈️ **Tourism Experience Analytics** | Python, Pandas | End-to-end analysis of tourism experience data with Python and data visualization. |
+| ✈️ **Tourism Experience Analytics** | Python, Streamlit, Scikit-learn | Predictive analytics and recommendation dashboard classifying traveler segments and generating personalized attraction recommendations using Random Forests & Collaborative Filtering. |
 | 💬 **Sentiment Analysis (Level 3)** | Python, NLP, Naive Bayes | NLP sentiment classifier using TF-IDF vectorization and Naive Bayes to tag text as positive, negative, or neutral. |
 | 🌸 **Iris Classification (Level 2)** | Python, Scikit-learn | Logistic Regression and Random Forest classification models built and compared on the Iris dataset. |
 | 🧹 **Iris Data Analysis** | Python, Pandas | Data cleaning and EDA on the Iris dataset. |
